@@ -114,7 +114,7 @@ QuickBooks, FreshBooks, Xero. All excellent at managing finances once data is en
 
 **Beel vs. document scanning apps**
 
-Apps like Dext (formerly Receipt Bank) or Hubdoc focus on document capture but typically require you to forward emails or snap photos. We took a different approach. Beel monitors your inbox directly. More passive, less ongoing effort from you. Nothing to remember to forward.
+Apps like Dext (formerly Receipt Bank) or Hubdoc focus on document capture but still require you to forward emails or snap photos. We took a different approach. Beel monitors your inbox directly. More passive, less ongoing effort from you. Nothing to remember to forward.
 
 **Beel vs. DIY automation**
 
@@ -162,4 +162,4 @@ If you're tired of the quarterly invoice scramble, 👉 [try Beel for free](http
 
 ---
 
-Beel is built by [The Formula AI](https://www.theformulaai.com/), a product studio based in Milan building AI tools for businesses. Check out our other products: [VideoTok](https://www.videotok.app/), [Filmia](https://www.filmia.ai/), and [Editby](https://www.editby.ai/).
+Beel is built by [The Formula AI](https://www.theformulaai.com/), a product studio based in Milan building AI tools for businesses. Check out our other products: [Videotok](https://www.videotok.app/), [Filmia](https://www.filmia.ai/), and [Editby](https://www.editby.ai/).

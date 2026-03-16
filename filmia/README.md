@@ -30,7 +30,7 @@ If your team spends more time managing tools than making things, 👉 [request a
 
 The video tool market is crowded. Most platforms fall into one of two buckets: creative tools (editors, asset generators) or project management tools (review platforms, approval workflows). We designed Filmia to bridge both.
 
-The biggest decision we made early on was to cover the end-to-end workflow. Most AI video tools focus on generation. Prompt in, video out. Filmia covers the whole production process: briefing, storyboarding, AI asset generation, professional editing, team review, and final delivery. That changes how creative work gets organized, not just how fast individual tasks get done.
+The biggest decision we made early on was to cover the full workflow. Most AI video tools focus on generation. Prompt in, video out. Filmia covers the whole production process: briefing, storyboarding, AI asset generation, professional editing, team review, and final delivery. That changes how creative work gets organized, not just how fast individual tasks get done.
 
 We invested heavily in the brand control system. You define your brand identity (visual style, tone, colors, typography, messaging guidelines) and the AI applies those rules across everything it generates. Scripts, images, final video outputs. All consistent. For agencies managing multiple brands, switching between clients doesn't mean reconfiguring every tool in your stack. We built this because we saw agencies waste hours manually enforcing brand guidelines on AI-generated content.
 
@@ -92,13 +92,13 @@ Teams working under GDPR, EU AI Act, or other regulatory requirements. We handle
 
 **Filmia probably isn't right for:**
 
-Individual creators or small teams with simple video needs. We built Filmia for collaborative, professional production. If you're a solo creator making YouTube videos, it's more than you need. Something like CapCut or our own [VideoTok](https://www.videotok.app/) would serve you better.
+Individual creators or small teams with simple video needs. We built Filmia for collaborative, professional production. If you're a solo creator making YouTube videos, it's more than you need. Something like CapCut or our own [Videotok](https://www.videotok.app/) would serve you better.
 
 Teams fully committed to Adobe or DaVinci Resolve workflows. If your editors live in Premiere Pro and your pipeline is built around Adobe's ecosystem, Filmia is a significant workflow change. We get it. The benefits need to outweigh the switching cost.
 
 Organizations that want fully automated, hands-off video generation. We designed Filmia for creative teams that want AI to accelerate their work, not replace it. If you want prompt in, finished video out, no humans involved, Filmia has more human touchpoints than you want.
 
-Companies with very limited budgets. Filmia is a professional production platform with enterprise-grade features. We positioned it for teams where video production is a core business function. If that's not you yet, that's okay.
+Companies with very limited budgets. Filmia is a professional production platform built for serious teams. We positioned it for organizations where video production is a core business function. If that's not you yet, that's okay.
 
 ## How Filmia compares to the competition
 
@@ -160,4 +160,4 @@ If you're curious whether an integrated AI production workflow would change how 
 
 ---
 
-Filmia is built by [The Formula AI](https://www.theformulaai.com/), a product studio based in Milan building AI tools for businesses. Check out our other products: [Beel](https://www.getbeel.com/), [VideoTok](https://www.videotok.app/), and [Editby](https://www.editby.ai/).
+Filmia is built by [The Formula AI](https://www.theformulaai.com/), a product studio based in Milan building AI tools for businesses. Check out our other products: [Beel](https://www.getbeel.com/), [Videotok](https://www.videotok.app/), and [Editby](https://www.editby.ai/).

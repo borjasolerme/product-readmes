@@ -6,7 +6,7 @@ We lived that frustration ourselves. So we built Editby to close the gap between
 
 <img width="1200" alt="Editby Platform" src="https://www.editby.ai/og-image.png" />
 
-But we didn't stop at voice matching. We built AI research agents that dig up current info before writing. SEO optimization that targets real ranking opportunities. Automated scheduling that keeps your channels active without you touching anything daily. The whole point was to turn content from a chore into a system. You review and approve instead of researching and drafting.
+But we didn't stop at voice matching. We built AI research agents that dig up current info before writing. SEO tools that target real ranking opportunities. Automated scheduling that keeps your channels active without you touching anything daily. The whole point was to turn content from a chore into a system. You review and approve instead of researching and drafting.
 
 If you've tried AI writing tools and been let down by the output, here's what we built and why.
 
@@ -44,7 +44,7 @@ Then there's automated scheduling. Set your cadence (daily, weekly, whatever wor
 
 This is the part we spent the most time on. You upload your best existing content, the pieces that best represent how you want to sound. The AI analyzes tone, style, vocabulary, sentence structure, and rhetorical patterns. You can also add custom rules: phrases to use or avoid, formatting preferences, topic boundaries, brand guidelines.
 
-What you get is a voice profile that acts as a persistent style guide for everything generated. Every article, every LinkedIn post, every newsletter draft uses it. We deliberately avoided the generic "tone" settings (formal, casual, friendly) that most tools offer. Our approach is learned from your actual writing. It catches nuances that checkbox controls miss.
+What you get is a voice profile that acts as a persistent style guide for everything generated. Every article, every LinkedIn post, every newsletter draft uses it. We deliberately avoided the generic "tone" settings (formal, casual, friendly) that most tools offer. Our approach is learned from your actual writing. It catches the small things that checkbox controls miss.
 
 You can create multiple voice profiles for different channels or brands. Your LinkedIn voice might be more conversational than your blog voice. Both might differ from your newsletter tone. We built the system to keep them straight across your content calendar.
 
@@ -60,7 +60,7 @@ We designed Editby to generate across multiple formats: blog posts, LinkedIn art
 
 The platform understands these differences and adjusts accordingly while keeping your core voice intact. You can take one idea across multiple channels with the right formatting and tone for each, instead of manually adapting every piece.
 
-**SEO optimization built in**
+**SEO built in**
 
 We took SEO beyond basic keyword insertion. Editby does keyword research to find ranking opportunities, analyzes competing content, and structures articles to match search intent. The content is built to rank, not just to exist.
 
@@ -84,7 +84,7 @@ I'd rather be honest about this upfront than have someone sign up and feel misle
 
 Marketing teams managing content across multiple channels who can't keep up with publishing demands. If your content calendar has more empty slots than published pieces, our automated generation and scheduling directly fix that. Voice learning means more volume doesn't mean less brand consistency.
 
-Founders and small teams who know they should be publishing but don't have time to write. This is honestly who we had in mind first. We're a small team ourselves, and we know the pain. Editby shifts your role from writer to editor. You review and refine AI drafts instead of staring at a blank page. If you're an expert in your field but can never find writing time, this changes things.
+Founders and small teams who know they should be publishing but don't have time to write. This is honestly who we had in mind first. We're a small team ourselves, and we know the pain. Editby shifts your role from writer to editor. You review and improve AI drafts instead of staring at a blank page. If you're an expert in your field but can never find writing time, this changes things.
 
 Content creators scaling from occasional publishing to consistent output. If you've built an audience with sporadic great content and want to increase cadence without diluting quality, the voice learning means your expanded output sounds as good as your best work.
 
@@ -106,15 +106,15 @@ We respect what other tools have built. Here's where we think we're different an
 
 **Editby vs. Jasper**
 
-Jasper is the most established AI writing platform. Strong template libraries, campaign management, solid team features. Where we focused differently is voice learning from actual content samples vs. Jasper's more template-driven approach. Jasper offers broader marketing capabilities (ads, social, email). We focused more narrowly on long-form content with SEO optimization and automated scheduling. That was a deliberate choice.
+Jasper is the most established AI writing platform. Strong template libraries, campaign management, solid team features. Where we focused differently is voice learning from actual content samples vs. Jasper's more template-driven approach. Jasper offers broader marketing capabilities (ads, social, email). We focused more narrowly on long-form content with built-in SEO and automated scheduling. That was a deliberate choice.
 
 **Editby vs. ChatGPT/Claude Direct**
 
-Using general-purpose AI directly is the most flexible and cheapest option. But it requires you to be a good prompt engineer to get consistent quality. We built the voice learning, research automation, SEO optimization, and scheduling layers specifically because general AI doesn't have them. If you're fine spending 20 minutes crafting prompts for each piece, direct AI works. If you want a system that produces publishable drafts with minimal input, that's the gap we're filling.
+Using general-purpose AI directly is the most flexible and cheapest option. But it requires you to be a good prompt engineer to get consistent quality. We built the voice learning, research automation, SEO, and scheduling layers specifically because general AI doesn't have them. If you're fine spending 20 minutes crafting prompts for each piece, direct AI works. If you want a system that produces publishable drafts with minimal input, that's the gap we're filling.
 
 **Editby vs. Surfer SEO**
 
-Surfer is great at SEO optimization and content briefs but doesn't write in your voice or handle multi-channel content. We combined Surfer-like SEO capabilities with voice learning and automated generation. If SEO is your only focus, Surfer's specialized depth might edge ahead. If you need voice-consistent content with SEO built in, we do both.
+Surfer is great at SEO analysis and content briefs but doesn't write in your voice or handle multi-channel content. We combined Surfer-like SEO capabilities with voice learning and automated generation. If SEO is your only focus, Surfer's specialized depth might edge ahead. If you need voice-consistent content with SEO built in, we do both.
 
 **Editby vs. Copy.ai**
 
@@ -136,7 +136,7 @@ Your LinkedIn voice isn't your blog voice. Take time to create distinct profiles
 
 **Review aggressively at first, then trust the system**
 
-In the first two weeks, carefully review and edit every piece Editby generates. Make corrections that refine the voice learning. Over time the output gets closer to what you actually want. Your editing load shrinks. We designed it to get better the more you use it.
+In the first two weeks, carefully review and edit every piece Editby generates. Make corrections that sharpen the voice learning. Over time the output gets closer to what you actually want. Your editing load shrinks. We designed it to get better the more you use it.
 
 **Use SEO insights to guide your content strategy**
 
@@ -144,7 +144,7 @@ Don't just write about what you think is interesting. Let Editby's keyword resea
 
 **Start with one channel and expand**
 
-Don't try to automate everything at once. Start with your highest-priority channel (usually blog or LinkedIn), get the voice and workflow dialed in, then expand. Each new channel benefits from the voice refinements you've already made.
+Don't try to automate everything at once. Start with your highest-priority channel (usually blog or LinkedIn), get the voice and workflow dialed in, then expand. Each new channel benefits from the voice improvements you've already made.
 
 **Keep feeding the system your best work**
 
@@ -154,7 +154,7 @@ When you publish something you're proud of, upload it to Editby. The voice learn
 
 I'll be direct. We didn't build Editby to solve the problem of AI writing tools being useless. We built it to solve the problem of them being generic. If you've tried other tools and been frustrated by output that sounds like a committee of robots wrote it, that distinction matters a lot.
 
-The voice learning is our core feature, and we're proud of how it works. Content generated after the system has analyzed your best writing sounds noticeably different from generic AI output. It's not perfect. You'll still edit, refine, and add the human touches only you can provide. But the starting point is much better. Your time shifts from rewriting to polishing.
+The voice learning is our core feature, and we're proud of how it works. Content generated after the system has analyzed your best writing sounds noticeably different from generic AI output. It's not perfect. You'll still edit, adjust, and add the human touches only you can provide. But the starting point is much better. Your time shifts from rewriting to polishing.
 
 Automated scheduling and multi-channel support turn content from a periodic effort into a consistent system. If your team knows it should be publishing more but can't resource the writing, Editby removes the bottleneck. Your content calendar fills itself. You review and approve.
 
@@ -168,4 +168,4 @@ No credit card required. The fastest way to know if it works is to let it read y
 
 ---
 
-Editby is built by [The Formula AI](https://www.theformulaai.com/), a product studio based in Milan building AI tools for businesses. Check out our other products: [Beel](https://www.getbeel.com/), [VideoTok](https://www.videotok.app/), and [Filmia](https://www.filmia.ai/).
+Editby is built by [The Formula AI](https://www.theformulaai.com/), a product studio based in Milan building AI tools for businesses. Check out our other products: [Beel](https://www.getbeel.com/), [Videotok](https://www.videotok.app/), and [Filmia](https://www.filmia.ai/).
